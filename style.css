@@ -30,7 +30,8 @@ body {
     background-color:#f5f5f5;
     max-width:750px;
     max-height: 440px;
-    margin: 80px; 
+    margin:auto;
+    margin-top: 90px
     }
 
 .zbozi {
@@ -56,7 +57,7 @@ body {
 .detaily {
     width: 335px;
     height: 440px;
-    background-color: white;
+    background-color: #ffffff;
     position: absolute;
     left: 415px;
     top: 0px;
@@ -72,7 +73,7 @@ body {
     padding-left: 30px;
     font-size: 16px;
     font-weight: 500;
-    color: white;
+    color: #ffffff;
     margin-top: 0;
 }
 
@@ -86,13 +87,13 @@ body {
 .cena {
     font-size: 28px;
     font-weight: 500;
-    color: white;
+    color: #ffffff;
 }
 
 .zaruka {
     font-size: 12px;
     font-weight: 400;
-    color: white;
+    color: #ffffff;
 }
 
 .nazev {
@@ -142,7 +143,7 @@ body {
 
 .tlacitko {
     padding: 10px 30px;
-    color: white;
+    color: #ffffff;
     background-color: #f15f42;
     text-decoration: none;
     text-transform: uppercase;
